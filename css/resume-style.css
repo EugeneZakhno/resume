@@ -228,7 +228,7 @@ https://www.tooplate.com/view/2120-ben-resume
 
   .nav-item .nav-link.active,
   .nav-item .nav-link:hover {
-    color: var(--gray-color);
+    color: var(--grey-color);
   }
 
   .nav-item .nav-link.active,
@@ -237,7 +237,7 @@ https://www.tooplate.com/view/2120-ben-resume
   }
 
   .nav-link {
-    color: var(--gray-color);
+    color: var(--grey-color);
     font-weight: var(--font-weight-light);
     font-size: var(--base-font-size);
     border-bottom: 1px solid transparent;
